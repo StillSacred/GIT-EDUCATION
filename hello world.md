@@ -1,8 +1,14 @@
+# First file version control
+
 Hello world!
+
+ ## Text selection
 
 *Kursiv.*
 
 **bold.**
+
+## Lists
 
 * Element 1
 * Element 2
